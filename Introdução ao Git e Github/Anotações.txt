@@ -1,2 +1,18 @@
-Link para download do Git para Linux: https://git-scm.com/download/linux
 O Git Bash é um terminal extendido para otimizar o uso do Git. 
+
+Link para download do Git para Linux: https://git-scm.com/download/linux
+Documentação do Git com guia de comandos: https://git-scm.com/docs/git
+
+Como subir arquivos no GitHub:
+# git init  
+# git add . 
+# git commit -m "Descricao"
+# git push origin main
+# SeuUsuario
+# DigiteSuaSenha 
+
+Para gerar a Senha no GitHub acesse Perfil | Settings | <> Developer Settings | Personal acess tokens
+
+
+
+
