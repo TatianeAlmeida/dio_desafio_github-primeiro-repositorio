@@ -1,0 +1,21 @@
+Pensamento Computacional:
+É uma estratégia para desenhar soluções e solucionar problemas de maneira eficaz utilizando a tecnologia como base.
+
+Decomposição: consiste em decompor o problema em partes menores para realizar uma análise detalhada e garantir maior eficácia na resolução.
+
+Reconhecimento de padrões: podem ser Modelo base, Estrutura invariante ou repetição. É utilizado nas aplicações para Classificação de dados, Reconhecimento de imagem, Reconhecimento de fala, Análise de cenas e classificação de documentos.
+
+Generalização: identificar as propriedades e caracteristicas dos dados.
+
+Abstração: abstrair os detalhes menos importante, e focar somente nos pontos essenciais desses dados, de modo que ocorra a generalização para que possamos classificá-lo.
+
+Algorítmos: descrição do problema por meio de narrativas, fluxogramas ou pseudocódigos. Este traz instruções detalhadas de sequência de passos com objetivo definido, execução de tarefas específicas e conjunto de operações que resultam em uma sucessão finita de ações.
+
+Construção de Algorítmos:
+Narrativa: utiliza uma linguagem natural para definir as instruções. Entretanto, esse método pode conter informações dúbias acarretando em interpretações diferentes.
+Fluxogramas:é uma representação esquemática de um processo ou algorítmo, que utiliza-se de símbolos pré-definidos e de fácil compreensão.   
+Pseudocódigo: é uma forma genérica e até didática de escrever um algoritmo utilizando uma linguagem simples, sem a necessidade de conhecer a síntaxe de uma linguagem de programação.
+
+
+
+
