@@ -1,0 +1,29 @@
+Gestão de projetos Ágeis com SCRUM:
+
+No modelo tradicional (Waterfall ou Cascata) o projeto é realizado de forma sequencial, ou seja, só podemos seguir para a próxima etapa, caso a anterior tenha sido concluída:
+Requirement: é definido os requisitos e acordado o que se espera do projeto, quais são as funções que este deverá conter na entrega final. É importante que as informações estejam objetivas e 	claras, para que não ocorra mal entendido, e evitar frustrações de expecitativa em relação ao produto.
+
+Design:é o momento de desenhar o projeto (modelo conceitual, lógico e físico) para representar os conceitos de dados que suportam o negócio.
+
+Implementation:é a fase do ciclo de vida do software, em que iniciará a codificação do mesmo.
+
+Verification: neste momento, será realizado a instalação e testes no software, identificando se todas as funcionalidades estão funcionando conforme esperado. 
+Maintenance: checagem de erros e otimização das capacidades.
+
+Nesse método o cliente só terá acesso para a utilização do sistema quando estiver totalmente concluído. Isso pode gerar frustrações uma vez que o cliente não aprovar o resultado e o projeto estiver totalmente finalizado sem possibilidade de ajustes. 
+
+Metodologia Ágil: nesse modelo o software é construído de forma incremental, e cada parte é executada em um ciclo (iterativo):
+Requisitos, Análise, Construção, Testes e Liberação. 
+
+O conceito é de realizar a entrega por funcionalidades, ou seja, de primeiro momento, entregamos o mínimo necessário para a utilização do sistema, e vamos aprimorando e entregando as demais funcionalidades no decorrer do projeto. Desse modo, é possível o cliente acompanhar cada etapa das entregas, e identificarmos se as funcionalidades estão sendo entregues conforme acordado, e isso nos dá a possibilidade de ajustes antes que a entrega completa do projeto seja realizada. 
+
+Exemplo: Imagine um artista que inicia um desenho de um quadro. Primeiro ele desenha o esboço fazendo traços sútis no formato da obra, adicona cores de base, detalha os traços, detalha as cores, faz o sombreamento e finalização.
+
+Nota: acesse a imagem "Método Ágil Monalisa" disponível no repositório.
+Crédito da imagem: https://medium.com/@bruno_live/mba-05-metodologias-%C3%A1geis-quando-os-desorganizados-e-mais-eficientes-tem-vez-na-gest%C3%A3o-de-d4f1fca0df7c
+
+Product Owner: representa o profissional que tem a visão do que será desenvolvido, as necessidades a serem atingidas, o público que utilizará os serviços e os objetivos a setem alcançados.
+
+Scrum Master: tem como objetivo transformar a equipe de desenvolvimento em uma equipe autogerenciável. Atua para garantir que o método esteja sendo aplicado de forma correta, e durante o processo a equipe de desenvolvimento esteja madura e engajada.
+
+
